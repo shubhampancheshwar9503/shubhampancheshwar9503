@@ -26,7 +26,7 @@ I am a passionate Full Stack Java Developer with a focus on building scalable an
 ### 📫 How to reach me:
 
 - **LinkedIn:** [Shubham Pancheshwar](https://www.linkedin.com/in/shubham9503/)
-- **Email:** [shubham.pancheshwar@example.com](mailto:pancheshwarshubham1234@gmail.com)
+- **Email:** [pancheshwarshubham1234@gmail.com](mailto:pancheshwarshubham1234@gmail.com)
 
 Feel free to connect with me for professional opportunities, collaboration, or to discuss any exciting projects!
 
