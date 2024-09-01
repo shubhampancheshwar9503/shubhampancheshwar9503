@@ -1,5 +1,3 @@
-Certainly! Let's break down each section of the GitHub profile description in detail:
-
 ### 👋 Hi, I’m [@shubhampancheshwar9503](https://github.com/shubhampancheshwar9503)
 
 **Introduction:**
