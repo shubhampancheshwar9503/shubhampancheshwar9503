@@ -29,7 +29,7 @@ I welcome feedback and contributions! If you have suggestions, spot any issues, 
 
 For collaboration opportunities, questions, or to connect, please reach out to me via:
 
-- **[LinkedIn](#)**
-- **[Email](mailto:example@example.com)**
+- **[LinkedIn](https://www.linkedin.com/in/shubham9503/)**
+- **[Email](mailto:pancheshwarshubham1234@gmail.com)**
 
 Thank you for visiting my GitHub profile!
