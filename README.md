@@ -8,32 +8,30 @@ As a committed Full Stack Developer, I thrive on both front-end and back-end cha
 
 ### 🛠️ Technical Skills
 
-- **Core Java:** 
-  - **Backend Development:** Building and maintaining server-side applications, creating RESTful APIs, and implementing business logic.
-  - **Frameworks:** Experience with Spring Boot for rapid development of production-ready applications and Java EE for enterprise solutions.
-  - **Key Concepts:** Proficient in design patterns, multithreading, and performance optimization.
+- **Core Java:**  
+  - Proficient in building and maintaining server-side applications, creating RESTful APIs, and implementing business logic using object-oriented principles.
+  - Experienced with frameworks like Spring Boot for rapid development and Java EE for enterprise solutions.
+  - Knowledgeable in design patterns, multithreading, and performance optimization.
 
-- **SQL:**
-  - **Database Design:** Crafting normalized database schemas to ensure data integrity and efficiency.
-  - **Query Writing:** Skilled in writing and optimizing complex SQL queries for diverse use cases.
-  - **Database Management:** Experience with MySQL and PostgreSQL, including performance tuning and indexing.
+- **SQL:**  
+  - Skilled in designing normalized database schemas and writing complex queries to ensure data integrity and efficiency.
+  - Experienced with MySQL and PostgreSQL, including performance tuning and indexing.
 
 - **Manual Testing:**  
-  - **Testing Methodologies:** Proficient in applying testing methodologies to ensure software quality and enhance user experience.
-  - **Test Case Development:** Skilled in creating and executing test cases for various application features.
+  - Proficient in applying testing methodologies to ensure software quality and enhance user experience.
+  - Experienced in creating and executing test cases for various application features.
 
-- **HTML5:**
-  - **Web Structuring:** Expertise in using HTML5 to create well-structured, semantic, and accessible web content.
-  - **Best Practices:** Knowledgeable in HTML best practices for SEO and accessibility.
+- **HTML5:**  
+  - Expertise in creating well-structured, semantic, and accessible web content.
+  - Knowledgeable in best practices for SEO and accessibility.
 
-- **CSS3:**
-  - **Styling:** Adept at designing visually appealing layouts and user interfaces with CSS.
-  - **Responsive Design:** Creating fluid and adaptable designs using media queries and frameworks like Bootstrap.
-  - **Custom Solutions:** Experience with CSS preprocessors like SASS for modular and maintainable styles.
+- **CSS3:**  
+  - Adept at designing visually appealing layouts and user interfaces.
+  - Skilled in responsive design using media queries and frameworks like Bootstrap.
 
 - **JavaScript:**  
-  - **Interactivity:** Skilled in adding dynamic functionality to web applications, enhancing user engagement and interactivity.
-  - **Frameworks:** Familiarity with JavaScript frameworks and libraries to streamline development processes.
+  - Proficient in adding dynamic functionality to web applications to enhance user engagement.
+  - Familiar with frameworks and libraries to streamline development processes.
 
 ## 📁 Repository Overview
 
@@ -69,3 +67,5 @@ For any questions, collaboration opportunities, or professional inquiries, feel 
 - **[Email](mailto:pancheshwarshubham1234@gmail.com):** Send me an email for direct communication or project discussions.
 
 Thank you for visiting my GitHub profile! 🌟 I invite you to explore my projects, dive into the code, and reach out if you have any questions or ideas for collaboration.
+
+--- 
