@@ -1,6 +1,6 @@
 # 🚀 Full Stack Developer Portfolio
 
-Welcome to my GitHub repository! I’m **Shubham Pancheshwar**, a Full Stack Developer specializing in **Java**, **SQL**, **HTML**, and **CSS**. This repository is dedicated to showcasing my work and skills through a variety of projects and code samples. Here, you'll find examples of my ability to develop robust applications and create engaging, user-friendly designs.
+Welcome to my GitHub repository! I’m **Shubham Pancheshwar**, a Full Stack Developer specializing in **Core Java**, **SQL**, **Manual Testing**, **HTML5**, **CSS3**, and **JavaScript**. This repository is dedicated to showcasing my work and skills through a variety of projects and code samples. Here, you'll find examples of my ability to develop robust applications and create engaging, user-friendly designs.
 
 ## 🌟 About Me
 
@@ -8,7 +8,7 @@ As a committed Full Stack Developer, I thrive on both front-end and back-end cha
 
 ### 🛠️ Technical Skills
 
-- **Java:** 
+- **Core Java:** 
   - **Backend Development:** Building and maintaining server-side applications, creating RESTful APIs, and implementing business logic.
   - **Frameworks:** Experience with Spring Boot for rapid development of production-ready applications and Java EE for enterprise solutions.
   - **Key Concepts:** Proficient in design patterns, multithreading, and performance optimization.
@@ -18,14 +18,22 @@ As a committed Full Stack Developer, I thrive on both front-end and back-end cha
   - **Query Writing:** Skilled in writing and optimizing complex SQL queries for diverse use cases.
   - **Database Management:** Experience with MySQL and PostgreSQL, including performance tuning and indexing.
 
-- **HTML:**
+- **Manual Testing:**  
+  - **Testing Methodologies:** Proficient in applying testing methodologies to ensure software quality and enhance user experience.
+  - **Test Case Development:** Skilled in creating and executing test cases for various application features.
+
+- **HTML5:**
   - **Web Structuring:** Expertise in using HTML5 to create well-structured, semantic, and accessible web content.
   - **Best Practices:** Knowledgeable in HTML best practices for SEO and accessibility.
 
-- **CSS:**
+- **CSS3:**
   - **Styling:** Adept at designing visually appealing layouts and user interfaces with CSS.
   - **Responsive Design:** Creating fluid and adaptable designs using media queries and frameworks like Bootstrap.
   - **Custom Solutions:** Experience with CSS preprocessors like SASS for modular and maintainable styles.
+
+- **JavaScript:**  
+  - **Interactivity:** Skilled in adding dynamic functionality to web applications, enhancing user engagement and interactivity.
+  - **Frameworks:** Familiarity with JavaScript frameworks and libraries to streamline development processes.
 
 ## 📁 Repository Overview
 
@@ -34,12 +42,13 @@ This repository is organized to give you a comprehensive view of my work:
 - **💻 Projects:**
   - **JMart - Java-based Shopping Cart System:**
     - **Description:** A comprehensive Java-based shopping cart system designed to manage products, handle user transactions, and provide a seamless shopping experience.
-    - **Tech Stack:** Java, SQL.
+    - **Tech Stack:** Core Java, SQL.
     - **Source Code:** [View on GitHub](https://github.com/shubhampancheshwar9503/JMart---Java-based-Shopping-Cart-System)
     - **Features:** User authentication, product management, shopping cart functionality, and order processing.
+    
   - **Hotel Application:**
     - **Description:** A complete hotel management application built to handle reservations, check-ins, and check-outs, providing an intuitive interface for hotel staff and guests.
-    - **Tech Stack:** Java, SQL.
+    - **Tech Stack:** Core Java, SQL.
     - **Source Code:** [View on GitHub](https://github.com/shubhampancheshwar9503/Hotel-Application)
     - **Features:** Reservation management, guest check-in/check-out, room availability tracking, and reporting functionalities.
 
