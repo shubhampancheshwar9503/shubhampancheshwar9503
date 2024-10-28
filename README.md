@@ -1,6 +1,6 @@
 # 🚀 Full Stack Developer Portfolio
 
-Welcome to my GitHub repository! I’m **Shubham Pancheshwar**, a Full Stack Developer specializing in **Core Java**, **SQL**, **Manual Testing**, **HTML5**, **CSS3**, and **JavaScript**. This repository is dedicated to showcasing my work and skills through a variety of projects and code samples. Here, you'll find examples of my ability to develop robust applications and create engaging, user-friendly designs.
+Welcome to my GitHub repository! I’m **Shubham Pancheshwar**, a Full Stack Developer specializing in **Core Java**, **SQL**, **Manual Testing**, **HTML5**, **CSS3**, and **JavaScript**. This repository showcases my work and skills through various projects and code samples. Here, you'll find examples of my ability to develop robust applications and create engaging, user-friendly designs.
 
 ## 🌟 About Me
 
@@ -38,17 +38,42 @@ As a committed Full Stack Developer, I thrive on both front-end and back-end cha
 This repository is organized to give you a comprehensive view of my work:
 
 - **💻 Projects:**
+  
   - **JMart - Java-based Shopping Cart System:**
     - **Description:** A comprehensive Java-based shopping cart system designed to manage products, handle user transactions, and provide a seamless shopping experience.
-    - **Tech Stack:** Core Java, SQL.
+    - **Tech Stack:** Core Java.
     - **Source Code:** [View on GitHub](https://github.com/shubhampancheshwar9503/JMart---Java-based-Shopping-Cart-System)
     - **Features:** User authentication, product management, shopping cart functionality, and order processing.
-    
+
   - **Hotel Application:**
     - **Description:** A complete hotel management application built to handle reservations, check-ins, and check-outs, providing an intuitive interface for hotel staff and guests.
-    - **Tech Stack:** Core Java, SQL.
+    - **Tech Stack:** Core Java.
     - **Source Code:** [View on GitHub](https://github.com/shubhampancheshwar9503/Hotel-Application)
     - **Features:** Reservation management, guest check-in/check-out, room availability tracking, and reporting functionalities.
+
+  - **Eco-Friendly Product Sales System:**
+    - **Description:** A database system designed to track sales of eco-friendly products, including customer interactions and sales analytics.
+    - **Tech Stack:** SQL.
+    - **Source Code:** [View on GitHub](https://github.com/shubhampancheshwar9503/Eco-Friendly-Product-Sales-System)
+    - **Features:** Comprehensive sales tracking, customer management, and product information.
+
+  - **StaySavvy - Restaurant Order Management System:**
+    - **Description:** A Java console application aimed at streamlining the restaurant order management process efficiently.
+    - **Tech Stack:** Core Java.
+    - **Source Code:** [View on GitHub](https://github.com/shubhampancheshwar9503/StaySavvy-Restaurant-Order-Management)
+    - **Features:** Menu selection system, real-time bill calculations, and multiple payment options.
+
+  - **MedSync - Healthcare Management System:**
+    - **Description:** A management system for healthcare professionals to streamline patient records and appointments.
+    - **Tech Stack:** Manual Testing.
+    - **Source Code:** [View on GitHub](https://github.com/shubhampancheshwar9503/MedSync-Healthcare-Management)
+    - **Features:** Patient management, appointment scheduling, and health record tracking.
+
+  - **CycloHub - Cycle Management System:**
+    - **Description:** An application designed for managing cycle rentals, tracking customer interactions and transactions.
+    - **Tech Stack:** Manual Testing.
+    - **Source Code:** [View on GitHub](https://github.com/shubhampancheshwar9503/CycloHub-Cycle-Management-System)
+    - **Features:** Rental management, customer tracking, and transaction processing.
 
 ## 🤝 Contributing
 
