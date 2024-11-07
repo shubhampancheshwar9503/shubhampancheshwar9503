@@ -45,12 +45,6 @@ This repository is organized to give you a comprehensive view of my work:
     - **Source Code:** [View on GitHub](https://github.com/shubhampancheshwar9503/JMart---Java-based-Shopping-Cart-System)
     - **Features:** User authentication, product management, shopping cart functionality, and order processing.
 
-  - **Hotel Application:**
-    - **Description:** A complete hotel management application built to handle reservations, check-ins, and check-outs, providing an intuitive interface for hotel staff and guests.
-    - **Tech Stack:** Core Java.
-    - **Source Code:** [View on GitHub](https://github.com/shubhampancheshwar9503/Hotel-Application)
-    - **Features:** Reservation management, guest check-in/check-out, room availability tracking, and reporting functionalities.
-
   - **Eco-Friendly Product Sales System:**
     - **Description:** A database system designed to track sales of eco-friendly products, including customer interactions and sales analytics.
     - **Tech Stack:** SQL.
