@@ -1,4 +1,4 @@
-# 🚀 Full Stack Developer Portfolio
+# 🚀 Full Stack Developer
 
 Welcome to my GitHub repository! I’m **Shubham Pancheshwar**, a passionate Full Stack Developer with a deep focus on **Core Java**, **SQL**, **Manual Testing**, **HTML5**, **CSS3**, and **JavaScript**. This repository is a collection of my work, designed to showcase my technical capabilities, problem-solving skills, and dedication to building robust, scalable applications. 
 
