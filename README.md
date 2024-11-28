@@ -2,23 +2,23 @@
 
 # 🚀 Full Stack Developer
 
-Welcome to my GitHub repository! I’m **Shubham Pancheshwar**, a passionate Full Stack Developer with expertise in **Core Java**, **SQL**, **PL/SQL**, **Selenium Automation Testing**, **Manual Testing**, **HTML5**, **CSS3**, and **JavaScript**. This repository showcases my projects, demonstrating my proficiency in backend and frontend development, automation testing, and database management.
+Welcome to my GitHub repository! I’m **Shubham Pancheshwar**, a passionate Full Stack Developer with expertise in **Core Java**, **SQL**, **Selenium Automation Testing**, **Manual Testing**, **HTML5**, **CSS3**, and **JavaScript**. This repository showcases my projects, demonstrating my proficiency in backend and frontend development, automation testing, and database management.
 
 ## 🌟 About Me
 
-As a Full Stack Developer, I thrive on solving complex challenges and creating applications that are both functional and user-friendly. With a strong foundation in **Core Java** for server-side development and **SQL**/**PL/SQL** for efficient database management, I’m also proficient in **Selenium Automation Testing** and **Manual Testing** to ensure the reliability and performance of applications. I aim to create solutions that are scalable, maintainable, and robust, whether it’s by developing secure backend systems, optimizing SQL queries, or automating repetitive tasks through testing.
+As a Full Stack Developer, I thrive on solving complex challenges and creating applications that are both functional and user-friendly. With a strong foundation in **Core Java** for server-side development and **SQL** for efficient database management, I’m also proficient in **Selenium Automation Testing** and **Manual Testing** to ensure the reliability and performance of applications. I aim to create solutions that are scalable, maintainable, and robust, whether it’s by developing secure backend systems, optimizing SQL queries, or automating repetitive tasks through testing.
 
 ## 🛠️ Technical Skills
 
 Here’s a summary of my technical expertise:
 
 - **Core Java:**
-  - Skilled in building scalable server-side applications with **Java**, focusing on object-oriented principles, design patterns, and multithreading.
-  - Experience with **Spring Boot** and **Java EE** for building enterprise-level applications.
+  - Skilled in building scalable server-side applications with **Core Java**, focusing on object-oriented principles and design patterns.
+  - Proficient in building applications using Java standard libraries, collections, and multithreading to optimize performance.
 
-- **SQL & PL/SQL:**
+- **SQL:**
   - Expertise in designing and optimizing relational databases to enhance performance and scalability.
-  - Proficient in writing complex **SQL** queries and **PL/SQL** scripts for data manipulation, analysis, and optimization, with strong experience in **MySQL**.
+  - Proficient in writing complex **SQL queries** for data manipulation, analysis, and optimization, with strong experience in **MySQL** and **PostgreSQL**.
 
 - **Selenium Automation Testing:**
   - Extensive experience in automating web applications using **Selenium WebDriver**, ensuring consistent and repeatable test executions.
@@ -32,11 +32,11 @@ Here’s a summary of my technical expertise:
   - Expertise in building responsive, semantic, and accessible web pages using **HTML5** and **CSS3** to enhance user experience and accessibility.
 
 - **JavaScript:**
-  - Proficient in developing dynamic web applications using **JavaScript** for building interactive and scalable front-end systems.
+  - Proficient in developing dynamic web applications using **JavaScript** and frameworks like **React** and **Node.js** for building interactive and scalable front-end and back-end systems.
 
 ## 📁 Repository Overview
 
-This repository highlights projects that demonstrate my skills in **Core Java**, **SQL**, **PL/SQL**, and **Testing (both Manual and Automated)**. Below are some of my key projects:
+This repository highlights projects that demonstrate my skills in **Core Java**, **SQL**, and **Testing (both Manual and Automated)**. Below are some of my key projects:
 
 - **💻 Projects:**
 
@@ -46,7 +46,7 @@ This repository highlights projects that demonstrate my skills in **Core Java**,
     - **Key Features:** Real-time cart management, secure order processing, and payment integration.
 
   - **[Sustainify - Eco-Friendly Product Sales System](https://github.com/shubhampancheshwar9503/Sustainify):**
-    - **Tech Stack:** SQL & PL/SQL
+    - **Tech Stack:** SQL
     - **Description:** A sales system to manage eco-friendly products, track sales, and analyze data.
     - **Key Features:** Sales tracking, customer management, and detailed analytics.
 
