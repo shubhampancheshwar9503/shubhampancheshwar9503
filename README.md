@@ -13,8 +13,8 @@ As a Full Stack Developer, I thrive on solving complex challenges and creating a
 Here’s a summary of my technical expertise:
 
 - **Core Java:**
-  - Skilled in building scalable server-side applications with **Java**, focusing on object-oriented principles, design patterns, and multithreading.
-  - Experience with **Spring Boot** and **Java EE** for building enterprise-level applications.
+  - Skilled in building scalable server-side applications with **Core Java**, focusing on object-oriented principles and design patterns.
+  - Proficient in building applications using Java standard libraries, collections, and multithreading to optimize performance.
 
 - **SQL:**
   - Expertise in designing and optimizing relational databases to enhance performance and scalability.
