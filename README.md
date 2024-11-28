@@ -32,7 +32,7 @@ Here’s a summary of my technical expertise:
   - Expertise in building responsive, semantic, and accessible web pages using **HTML5** and **CSS3** to enhance user experience and accessibility.
 
 - **JavaScript:**
-  - Proficient in developing dynamic web applications using **JavaScript** and frameworks like **React** and **Node.js** for building interactive and scalable front-end and back-end systems.
+  - Proficient in developing dynamic web applications using **JavaScript** and frameworks like **React** for building interactive and scalable front-end and back-end systems.
 
 ## 📁 Repository Overview
 
